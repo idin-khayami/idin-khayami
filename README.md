@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/khy_dii" target="blank"><img src="https://img.shields.io/twitter/follow/khy_dii?logo=twitter&style=for-the-badge" alt="khy_dii" /></a> </p>
 
-- 🔭 I’m currently working on React **snapp**
+- 🔭  I’m currently working on React **snapp**
 
-- 📝 I regularly write articles on medium [https://iidiin.medium.com](https://iidiin.medium.com)
+- 📝  I regularly write articles on medium [https://iidiin.medium.com](https://iidiin.medium.com)
 
-- 📄 Know about my experiences [https://idin-khayami.github.io/resume](https://idin-khayami.github.io/resume)
+- 📄  Know about my experiences [https://idin-khayami.github.io/resume](https://idin-khayami.github.io/resume)
 
-- ⚡ More facts **Traveler | Amateur writer | Pet lover**
+- ⚡  More facts: **Traveler | Amateur writer | Pet lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
