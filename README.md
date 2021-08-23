@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/khy_dii" target="blank"><img src="https://img.shields.io/twitter/follow/khy_dii?logo=twitter&style=for-the-badge" alt="khy_dii" /></a> </p>
 
-- 🔭  I’m currently working on React **snapp**
+- 🔭  I’m currently working on React **Snapp-cab**
 
 - 📝  I regularly write articles on medium [https://iidiin.medium.com](https://iidiin.medium.com)
 
