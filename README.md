@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Idin Khanoom Khayami, A 28 year old self-taught developer with 8+ years of experience using technologies such as react, angular, responsive etc. to develop web applications, who is insterest in a position with an interest in developing progressive web applications. Passionate about the new technologies: TypeScript, Go, ... in no particular order. I love exploring new technologies and playing around with them.
+
 <!--
 **idin-khayami/idin-khayami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
