@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/khy_dii" target="blank"><img src="https://img.shields.io/twitter/follow/khy_dii?logo=twitter&style=for-the-badge" alt="khy_dii" /></a> </p>
 
-- 🔭  I’m currently working with React at **Snapp-cab**
+- 🔭  I’m currently working with React and Typescript at **FindHotel**
+
+- 🔭  I worked as a Senior Frontend Engineer at **snapp-cab**
 
 - 📝  I regularly write articles on medium [https://iidiin.medium.com](https://iidiin.medium.com)
 
