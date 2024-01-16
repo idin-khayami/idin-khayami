@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Idin Khayami</h1>
-<h3 align="center">A 31-year-old self-taught Frontend Developer with +9 years of experience using technologies</h3>
+<h3 align="center">A 31-year-old self-taught Frontend Developer with +10 years of experience using technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idin-khayami&label=Profile%20views&color=0e75b6&style=flat" alt="idin-khayami" /> </p>
 
