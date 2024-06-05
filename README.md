@@ -1,21 +1,29 @@
 <h1 align="center">Hi 👋, I'm Idin Khayami</h1>
-<h3 align="center">A 31-year-old self-taught Frontend Developer with +10 years of experience using technologies</h3>
+<h3 align="center">A 31-year-old self-taught Frontend Developer with over 10 years of experience using various technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idin-khayami&label=Profile%20views&color=0e75b6&style=flat" alt="idin-khayami" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=idin-khayami&label=Profile%20views&color=0e75b6&style=flat" alt="idin-khayami" />
+</p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=idin-khayami" alt="idin-khayami" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://twitter.com/khy_dii" target="blank">
+    <img src="https://img.shields.io/twitter/follow/khy_dii?logo=twitter&style=for-the-badge" alt="khy_dii" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idin-khayami" alt="idin-khayami" /></a> </p>
+- 🔭  I’m currently working with React and Typescript at **Vio** as a Senior Frontend Engineer!
 
-<p align="left"> <a href="https://twitter.com/khy_dii" target="blank"><img src="https://img.shields.io/twitter/follow/khy_dii?logo=twitter&style=for-the-badge" alt="khy_dii" /></a> </p>
-
-- 🔭  I’m currently working with React and Typescript at **Vio**
-
-- 🔭  I worked as a Senior Frontend Engineer at **snapp-cab**
+- 🔭  I worked as a Senior Frontend Engineer and Engineer manager at **snapp**
 
 - 📝  I regularly write articles on medium [https://iidiin.medium.com](https://iidiin.medium.com)
 
 - 📄  Know about my experiences [https://idin-khayami.github.io/resume](https://idin-khayami.github.io/resume)
 
-- ⚡  More facts: **Traveler | Amateur writer | Pet lover**
+- ⚡  More facts: **Traveler | Coffee lover | Amateur writer | Pet lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
